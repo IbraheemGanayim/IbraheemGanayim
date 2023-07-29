@@ -11,6 +11,7 @@ I'm a motivated and fast-learning software engineering student, always on the lo
 🔍 Data Analyst & Web Developer @ Western Digital - 🚀 Excellence for Hi-Tech Program (2018 - 2019).
 
 🎓 **Education**
+
 Braude Academic College - B.Sc. in Software Engineering
 - 🏆 Top Courses: Cryptology and Data Security (99) / Client-Server Project (91) / C (80) / Computer Networks (91) / RTOS (87) / OOP in Java (85) / Machine Learning (90)
 
