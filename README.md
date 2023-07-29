@@ -12,7 +12,7 @@ I'm a motivated and fast-learning software engineering student, always on the lo
 
 🎓 **Education**
 
-🎓 Braude Academic College - Software Engineering (2019 - Present)
+Braude Academic College - B.Sc. in Software Engineering
 🏆 Top Courses: Cryptology and Data Security (99) / Client-Server Project (91) / C (80) / Computer Networks (91) / RTOS (87) / OOP in Java (85) / Machine Learning (90)
 
 💪 **Technical Skills**
@@ -26,9 +26,9 @@ I'm a motivated and fast-learning software engineering student, always on the lo
 
 📚 **Extracurricular Courses**
 
-🚀 DevOps Engineer - 7 months course by Elevation to master the tools & methods to become an A-class DevOps engineer.
-🔧 Udemy - Successfully completed ~10 courses in Web & Mobile Development.
-🚀 Full Stack Web Development - 5 months course by Tsofen
+- 🚀 DevOps Engineer - 7 months course by Elevation to master the tools & methods to become an A-class DevOps engineer.
+- 🔧 Udemy - Successfully completed ~10 courses in Web & Mobile Development.
+- 🚀 Full Stack Web Development - 5 months course by Tsofen
   - Technologies: React, Node.js, MySQL, Git. Development in Agile teams.
   - Created an application from scratch for security researchers.
 
@@ -39,6 +39,6 @@ I'm a motivated and fast-learning software engineering student, always on the lo
 - 🚀 Participated in 3 Hackathons, 1 Ultra-Hackathon, 2 Makeathons.
 
 
-Feel free to check out my repositories below 👇 and let's collaborate on some cool projects together! Let's create magic with code! 🌈✨
+Feel free to check out my repositories below 👇 and let's collaborate on some cool projects together! ✨
 
 🚀 **"Coding is like painting; we use different colors of logic to create an extraordinary masterpiece."** 🎨🎉
