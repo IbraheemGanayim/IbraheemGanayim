@@ -28,8 +28,8 @@ Braude Academic College - B.Sc. in Software Engineering.
 📚 **Extracurricular Courses**
 
 - 🚀 DevOps Engineer - 7 months course by Elevation to master the tools & methods to become an A-class DevOps engineer.
-- 🔧 Udemy - Successfully completed ~10 courses in Web & Mobile Development.
-- 🚀 Full Stack Web Development - 5 months course by Tsofen
+- 🖥️ Udemy - Successfully completed ~10 courses in Web & Mobile Development.
+- 🌐 Full Stack Web Development - 5 months course by Tsofen
   - Technologies: React, Node.js, MySQL, Git. Development in Agile teams.
   - Created an application from scratch for security researchers.
 
