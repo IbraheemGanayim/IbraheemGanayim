@@ -1,7 +1,3 @@
-👋 **Hello there! Welcome to my GitHub Profile!** 👩‍💻
-
-![Profile Banner]([link_to_your_banner_image](https://media.istockphoto.com/id/1332535500/vector/devops-engineers-concept.jpg?s=612x612&w=0&k=20&c=6Dwb63z573hZ6qTBg71rMm5popamxDUpVSBjf1v-VhE=))
-
 ### Hey, I'm Ibraheem Ganayim! 🌟
 
 I'm a 🚀 **Software Engineer** 🚀 with a passion for turning code into innovative solutions! I'm also a 🛠️ **DevOps Engineer** 🛠️ and a 🌐 **Full Stack Engineer** 🌐, combining my skills to build awesome projects!
