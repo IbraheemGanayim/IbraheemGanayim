@@ -3,14 +3,15 @@
 
 📖 **About Me**
 
+
 I'm a **Software Engineer**, a **DevOps Engineer**, and a **Full Stack Engineer**, all rolled into one! 💻🚀 Turning code into innovative solutions is my passion, and I love crafting awesome projects that push boundaries!
 
-🔍 I'm always on the lookout for thrilling challenges and the latest tech trends. From 🕵️‍♂️ Data Analysis to 💻 Full Stack Development and 📊 Machine Learning, I've delved into diverse domains, ready to conquer new frontiers!
+I'm always on the lookout for thrilling challenges and the latest tech trends. From 🕵️‍♂️ Data Analysis to 💻 Full Stack Development and 📊 Machine Learning, I've delved into diverse domains, ready to conquer new frontiers!
 
 💼 **Work Experience**
 
 
-Data Analyst 🔍 & Web Developer 🌐 @ Western Digital - Excellence for Hi-Tech Program 🚀 (1.5 years).
+Data Analyst & Web Developer @ Western Digital - Excellence for Hi-Tech Program 🚀 (1.5 years).
 
 🎓 **Education**
 
