@@ -1,6 +1,6 @@
 ### Hey, I'm Ibraheem Ganayim! 🌟
 
-I'm a 🚀 **Software Engineer** 🚀 with a passion for turning code into innovative solutions! I'm also a 🛠️ **DevOps Engineer** 🛠️ and a 🌐 **Full Stack Engineer** 🌐, combining my skills to build awesome projects!
+I'm a **Software Engineer** with a passion for turning code into innovative solutions! I'm also a **DevOps Engineer** and a **Full Stack Engineer**, combining my skills to build awesome projects!
 
 📖 **About Me**
 
@@ -8,7 +8,7 @@ I'm a 🚀 **Software Engineer** 🚀 with a passion for turning code into innov
 
 💼 **Work Experience**
 
-- 🔍 Data Analyst & Web Developer @ Western Digital - 🚀 Excellence for Hi-Tech Program (1.5 years).
+- Data Analyst 🔍 & Web Developer 🌐 @ Western Digital - Excellence for Hi-Tech Program 🚀 (1.5 years).
 
 🎓 **Education**
 
