@@ -4,11 +4,11 @@ I'm a 🚀 **Software Engineer** 🚀 with a passion for turning code into innov
 
 📖 **About Me**
 
-I'm a motivated and fast-learning software engineering student, always on the lookout for exciting challenges and new technologies. My journey started at Ort Braude College, where I honed my skills in various areas like 🕵️‍♂️ Data Analysis, 💻 Full Stack Development, and even delved into the captivating world of 📊 Machine Learning algorithms.
+- I'm a motivated and fast-learning software engineer, always on the lookout for exciting challenges and new technologies. My journey started at Ort Braude College, where I honed my skills in various areas like 🕵️‍♂️ Data Analysis, 💻 Full Stack Development, and even delved into the captivating world of 📊 Machine Learning algorithms.
 
 💼 **Work Experience**
 
-🔍 Data Analyst & Web Developer @ Western Digital - 🚀 Excellence for Hi-Tech Program (1.5 years).
+- 🔍 Data Analyst & Web Developer @ Western Digital - 🚀 Excellence for Hi-Tech Program (1.5 years).
 
 🎓 **Education**
 
