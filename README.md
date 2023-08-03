@@ -1,8 +1,6 @@
 ### Hey, I'm Ibraheem Ganayim! 🌟
 
 
-📖 **About Me**
-
 
 I'm a **Software Engineer**, a **DevOps Engineer**, and a **Full Stack Engineer**, all rolled into one! 💻🚀 Turning code into innovative solutions is my passion, and I love crafting awesome projects that push boundaries!
 
