@@ -2,7 +2,7 @@
 
 
 
-I'm a **Software Engineer**, a **DevOps Engineer**, and a **Full Stack Engineer**, all rolled into one! 💻🚀 Turning code into innovative solutions is my passion, and I love crafting awesome projects that push boundaries!
+I'm a **Software Engineer**, **DevOps Engineer** and a **Full Stack Engineer**, all rolled into one! 💻🚀 Turning code into innovative solutions is my passion, and I love crafting awesome projects that push boundaries!
 
 
 💼 **Work Experience**
@@ -27,7 +27,7 @@ Braude Academic College - B.Sc. in Software Engineering.
 
 📚 **Extracurricular Courses**
 
-- 🚀 DevOps Engineer - 7 months course by Elevation to master the tools & methods to become an A-class DevOps engineer.
+- 🚀 DevOps Engineer - 7-month course by Elevation to master the tools & methods to become an A-class DevOps engineer.
 - 🖥️ Udemy - Successfully completed ~10 courses in Web & Mobile Development.
 - 🌐 Full Stack Web Development - 5 months course by Tsofen
   - Technologies: React, Node.js, MySQL, Git. Development in Agile teams.
@@ -35,11 +35,11 @@ Braude Academic College - B.Sc. in Software Engineering.
 
 🎉 **Social Involvement**
 
-- 🥇 3rd Place Winner at Tsofen's 2023 EcoHack Hackathon.
+- 🥇 Winner at Tsofen's 2023 EcoHack Hackathon.
 - 🤝 3 Times Mentor at Tsofen's Hackathon Events for High School Students.
 - 🚀 Participated in 3 Hackathons, 1 Ultra-Hackathon, 2 Makeathons.
 
 
-Feel free to check out my repositories below 👇 and let's collaborate on some cool projects together! ✨
+Feel free to check out my repositories below 👇 Let's collaborate on some cool projects! ✨
 
 🚀 **"Coding is like painting; we use different colors of logic to create an extraordinary masterpiece."** 🎨🎉
