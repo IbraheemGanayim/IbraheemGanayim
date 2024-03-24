@@ -17,7 +17,7 @@ Data Analyst & Web Developer @ Western Digital - Excellence for Hi-Tech Program 
 
 
 Braude Academic College - B.Sc. Software Engineer.
-- 🏆 Top Courses: Cryptology and Data Security (99) / Client-Server Project (91) / C (80) / Computer Networks (91) / RTOS (87) / OOP in Java (85) / Machine Learning (90)
+
 
 💪 **Technical Skills**
 
