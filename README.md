@@ -4,11 +4,13 @@ As a **Software Engineer**, **DevOps Engineer**, **Full Stack Developer** and **
 
 ## Quick Highlights 🌟
 
-- **B.Sc. in Software Engineering** with hands-on experience in Python, Java, JavaScript, C/C++, and more.
-- Proficient in **DevOps & Cloud** technologies, including Docker, Kubernetes, AWS, Azure and GCP.
-- Developed impactful projects in **Web Development** using React, Node.js and in **Machine Learning** with advanced algorithms.
-- Active contributor to **open-source projects** and a firm believer in using technology to make a meaningful impact.
-- **Winner** at Tsofen's 2023 EcoHack Hackathon and recognized for innovation and teamwork.
+- 🎓 **B.Sc. in Software Engineering** with hands-on experience in Python, Java, JavaScript, C/C++, and more.
+- 💻 Proficient in **DevOps & Cloud** technologies, including Docker, Kubernetes, AWS, Azure and GCP.
+- 📊 Experience as a **Data Analyst & Software Engineer at Western Digital**, where I utilized Python for data analysis and developed a web portal for efficient data report visualization, contributing to enhanced data-driven decision-making processes.
+- 🌐 Developed impactful projects in **Web Development** using React, Node.js and in **Machine Learning** with advanced algorithms.
+- 🤝 Active contributor to **Open-Source Projects** and a firm believer in using technology to make a meaningful impact.
+- 🏆 **Winner** at Tsofen's 2023 EcoHack Hackathon and recognized for innovation and teamwork.
+
 
 ## Tech Stack 🛠️
 
