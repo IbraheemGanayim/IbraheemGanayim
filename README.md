@@ -5,11 +5,11 @@ Welcome to my GitHub! I'm a multi-faceted **Software Engineer**, **DevOps Engine
 ## About Me 🚀
 
 - 🌟 I'm a seasoned **Software Engineer**, **DevOps Engineer**, and **Full Stack Developer** with a passion for building innovative solutions.
-- 💻 Currently, I'm harnessing my expertise in **web development** and **machine learning** to create projects that push technological boundaries.
-- 🌐 With a deep understanding of **cloud technologies** and **advanced DevOps practices**, I thrive in environments that challenge the status quo.
-- 👥 I'm open to collaborating on **open-source projects** and **innovative tech solutions** that make a meaningful impact.
-- 🚀 My experience spans **software development**, **DevOps methodologies**, **machine learning**, and **Kubernetes deployments**, showcasing a versatile skill set ready to tackle complex challenges.
-- 📫 How to connect: [LinkedIn](https://www.linkedin.com/in/ibraheemganayim/) | [Email](mailto:Ganayim.Ibraheem@gmail.com)
+- 💻 Currently, I'm harnessing my expertise in **Web Development** and **Machine Learning** to create projects that push technological boundaries.
+- 🌐 With a deep understanding of **Cloud Technologies** and **Advanced DevOps Practices**, I thrive in environments that challenge the status quo.
+- 👥 I'm open to collaborating on **Open-Source Projects** and **Innovative Tech Solutions** that make a meaningful impact.
+- 🚀 My experience spans **Software Development**, **DevOps Methodologies**, **Machine Learning**, and **Kubernetes Deployments**, showcasing a versatile skill set ready to tackle complex challenges.
+- 📫 Connect with me on: [LinkedIn](https://www.linkedin.com/in/ibraheemganayim/) | [Email](mailto:Ganayim.Ibraheem@gmail.com)
 
 Leveraging a blend of technical prowess and creative thinking, I aim to contribute to projects that are at the forefront of innovation. Let's explore how we can create the extraordinary together.
 
