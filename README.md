@@ -1,6 +1,6 @@
 # Hello, I'm Ibraheem Ganayim! 👋
 
-As a **Software Engineer**, **DevOps Engineer**, **Full Stack Developer** and **Data Analyst**, I specialize in bringing innovative tech solutions to life. My expertise spans **Web Development**, **Machine Learning**, **Cloud Technologies** and **DevOps Practices**.
+As a **Software Engineer**, **DevOps Engineer**, **Full Stack Engineer** and **Data Analyst**, I specialize in bringing innovative tech solutions to life. My expertise spans **Web Development**, **Machine Learning**, **Cloud Technologies** and **DevOps Practices**.
 
 ## Quick Highlights 🌟
 
