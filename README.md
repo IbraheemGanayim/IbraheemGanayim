@@ -53,8 +53,6 @@ I use a variety of tools and technologies across different aspects of developmen
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" title="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite" title="SQLite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="MS SQL" title="MS SQL" />
-  <!-- Placeholder for Power BI icon -->
-  <img src="YOUR_POWER_BI_ICON_URL" width="40" height="40" alt="Power BI" title="Power BI" />
 </p>
 
 ### Version Control
