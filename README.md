@@ -6,7 +6,7 @@ My expertise spans **Web Development**, **Machine Learning**, **Cloud Technologi
 
 ## Quick Highlights 🌟
 
-- 🎓 **B.Sc. in Software Engineering** with hands-on experience in Python, Java, JavaScript, C/C++, and more.
+- 🎓 **B.Sc. in Software Engineering** with hands-on experience in Python, Java, JavaScript, C/C++ and more.
 - 💻 Proficient in **DevOps & Cloud** technologies, including Docker, Kubernetes, AWS, Azure and GCP.
 - 📊 Experience as a **Data Analyst & Software Engineer at Western Digital**, where I utilized Python for data analysis and developed web portals, enhancing data-driven decisions.
 - 🌐 Built **Web** projects with (React, Node.js) and Machine Learning, leveraging advanced algorithms.
